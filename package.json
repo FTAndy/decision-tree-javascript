@@ -1,0 +1,22 @@
+{
+  "name": "decision-tree-javascript",
+  "version": "1.0.0",
+  "description": "[《Machine Learning in Action》](https://www.manning.com/books/machine-learning-in-action) chapter 3 example use javascript complete.",
+  "main": "tree.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FTAndy/decision-tree-javascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FTAndy/decision-tree-javascript/issues"
+  },
+  "homepage": "https://github.com/FTAndy/decision-tree-javascript#readme",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  }
+}
